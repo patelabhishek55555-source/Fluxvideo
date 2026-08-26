@@ -1,0 +1,6 @@
+{
+  "name": "Universal Video Downloader",
+  "description": "A clean, modern full-stack web application to fetch, preview, and download publicly available open-license videos from various platforms with an AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
